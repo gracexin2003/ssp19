@@ -1,0 +1,7 @@
+Special instructions:
+None. Just run the code :)
+
+My orbital elements have a pretty low error (for the most part).
+I attempted to calculate my ephemeris in the OD, but it didn't work.
+My Newton Raphson code also did not work, so I didn't include it in this version of the code either.
+The code runs strictly on a set of 4 inputs, because I hard coded the input-taking :(
